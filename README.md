@@ -3,7 +3,7 @@
 A simple Flutter-based dice rolling application that allows users to roll a dice by pressing a button, changing the dice face randomly with each press.
 
 ## My Screens:
-  <img src="assets/1.png" alt="Drawer Menu" width="999"/>
+  <img src="assets/1.png" alt="Drawer Menu" width="400"/>
 
 
 ## Features
